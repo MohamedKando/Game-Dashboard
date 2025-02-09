@@ -1,12 +1,15 @@
 using GameZone.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace GameZone.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
+        
         private readonly AppDbContext db ;
 
         public HomeController(AppDbContext db)

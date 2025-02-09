@@ -8660,11 +8660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\GameZone\\GameZone\\GameZone.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Game-Dashboard\\GameZone\\GameZone\\GameZone.csproj",
       "projectName": "GameZone",
-      "projectPath": "C:\\Users\\user\\source\\repos\\GameZone\\GameZone\\GameZone.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Game-Dashboard\\GameZone\\GameZone\\GameZone.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\GameZone\\GameZone\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Game-Dashboard\\GameZone\\GameZone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

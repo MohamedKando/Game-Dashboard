@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jY50aOInNIn/Qx30L6+gY1dFYYEzCZsntCpMtLFbnVW2UVDWlDUMORSaPZ1q3ess4jFKI1wYynySYV0JyAOHNA==",
+  "dgSpecHash": "L2Rb++Vws/LeUxxzBA4EV4J9iYauVML8+hAVzhoAfBA4I6wyDVArwUzq8gmptLGrSw5nz6t24vL1fShqjSF8zQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\GameZone\\GameZone\\GameZone.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\Game-Dashboard\\GameZone\\GameZone\\GameZone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
